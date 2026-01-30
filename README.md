@@ -67,24 +67,24 @@ This isn't just "deal two cards and compare numbers"—it's a showcase of **even
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshots/gameplay.png" alt="Screenshot 1: Active Game" width="800">
+  <img src="screenshots/screenshot1.png" alt="Screenshot 1: Main Menu" width="800">
 </p>
 <p align="center">
-  <strong>Screenshot 1:</strong> Mid-game with cards dealt, player deciding to hit or stay.
+  <strong>Screenshot 1:</strong> Title screen with fade-in animation and custom wallpaper.
 </p>
 
 <p align="center">
-  <img src="screenshots/betting.png" alt="Screenshot 2: Betting Screen" width="800">
+  <img src="screenshots/screenshot2.png" alt="Screenshot 2: Betting Screen" width="800">
 </p>
 <p align="center">
   <strong>Screenshot 2:</strong> Betting interface with chip selection and current balance display.
 </p>
 
 <p align="center">
-  <img src="screenshots/menu.png" alt="Screenshot 3: Main Menu" width="800">
+  <img src="screenshots/screenshot3.png" alt="Screenshot 3: Active Game" width="800">
 </p>
 <p align="center">
-  <strong>Screenshot 3:</strong> Title screen with fade-in animation and custom wallpaper.
+  <strong>Screenshot 3:</strong> Mid-game with cards dealt, player deciding to hit or stay.
 </p>
 
 ---
