@@ -25,10 +25,12 @@ This isn't just "deal two cards and compare numbers"—it's a showcase of **even
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python 3.12 (The Engine)"/>
-  <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" width="40" height="40" alt="Pygame" title="Pygame (The Graphics Layer)"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br/>Python 3.12</td>
+    <td align="center"><img src="https://www.pygame.org/docs/_static/pygame_logo.svg" width="40" height="40" alt="Pygame" /><br/>Pygame</td>
+  </tr>
+</table>
 
 ---
 
